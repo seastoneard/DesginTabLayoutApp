@@ -1,6 +1,6 @@
 # DesginTabLayoutApp
 
- <div class="article_content max-width100">
+ <div class="article_content max-width100" id="article_content" class="article_content">
        <p>Google在2015的IO大会上，给我们带来了更加详细的Material Design设计规范，同时，也给我们带来了全新的Android Design Support Library，在这个support库里面，Google给我们提供了更加规范的MD设计风格的控件。最重要的是，Android Design Support Library的兼容性更广，直接可以向下兼容到Android 2.2。Tabs选项卡，效果类似网易新闻客户端的Tab。<span style="display: none; line-height: 0px;">‍</span><span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14px; line-height: 28px; text-indent: 28px;  background-color: rgb(249, 249, 249);"><span style="display: none; line-height: 0px;">‍</span></span></p>
 <p><span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14px; line-height: 28px; text-indent: 28px;  background-color: rgb(249, 249, 249);"><span style="display: none; line-height: 0px;">‍</span></span><span style="display: none; line-height: 0px;">‍</span>1.使用前配置:<span style="display: none; line-height: 0px;">‍</span><span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14px; line-height: 28px; text-indent: 28px;  background-color: rgb(249, 249, 249);"><span style="display: none; line-height: 0px;">‍</span></span></p>
 <p><span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14px; line-height: 28px; text-indent: 28px;  background-color: rgb(249, 249, 249);"><span style="display: none; line-height: 0px;">‍</span></span><span style="display: none; line-height: 0px;">‍</span>在AndroidStudio中使用的话，&nbsp;配置build.gradle -----&gt;compile 'com.android.support:design:22.2.0',在eclipse中的话，需导入android-support-design.jar包.<span style="display: none; line-height: 0px;">‍</span><span style="color: rgb(51, 51, 51); font-family: 宋体; font-size: 14px; line-height: 28px; text-indent: 28px; background-color: rgb(249, 249, 249);"><span style="display: none; line-height: 0px;">‍</span></span></p>
@@ -150,3 +150,6 @@ public&nbsp;class&nbsp;AuthorInfoFragment&nbsp;extends&nbsp;Fragment&nbsp;{
 <p>//具体实现代码在：<a href="http://www.devstore.cn/code/info/1714.html">http://www.devstore.cn/code/info/1714.html</a></p>
 <p><span style="color: rgb(47, 47, 47); font-family: 'lucida grande', 'lucida sans unicode', lucida, helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif; line-height: 27.2px;  background-color: rgb(255, 255, 255);"></span></p>
     </div>
+    
+  <!--Baidu Button BEGIN-->
+  
